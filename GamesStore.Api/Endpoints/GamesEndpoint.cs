@@ -1,8 +1,6 @@
 using GamesStore.Api.Entities;
 using GamesStore.Api.Repositories;
-
 namespace GamesStore.Api.Endpoints;
-
 public static class GamesEndpoint{
     const string GetGameEndpointName = "GetGame";
    
@@ -11,7 +9,7 @@ public static class GamesEndpoint{
         
         var group = routes.MapGroup("/games").WithParameterValidation();
 
-        group.MapGet("/", () => repo.GetAll);
+        group.MapGet("/", () => repo.GetAll());
 
             group.MapGet("/{id}", (int id) => {
             Game? game = repo.Get(id);
