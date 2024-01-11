@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/buYYBr/COlfKj15eGuVfbzxxn4LeEbOMx3L2s+6RSaK94Q0M8hIhL/ShBFwUwq4owexTZ17fV6Ar/3bsrfDMg==",
+  "dgSpecHash": "ArUQ4HCmlOz+piHPMSYdLXeJai+AoyXTOC1N62VYU+E4fGWYIwYFoFtbnDzMxuyX6mJN2KL8wsGRJ3t50F6z8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\wikto\\OneDrive\\Pulpit\\aspnet\\GamesStore\\GamesStore.Api\\GamesStore.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wikto\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\wikto\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
+    "C:\\Users\\wikto\\.nuget\\packages\\minivalidation\\0.8.0\\minivalidation.0.8.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -23,3 +23,9 @@ C:\Users\wikto\OneDrive\Pulpit\aspnet\GamesStore\GamesStore.Api\obj\Debug\net7.0
 C:\Users\wikto\OneDrive\Pulpit\aspnet\GamesStore\GamesStore.Api\obj\Debug\net7.0\GamesStore.Api.pdb
 C:\Users\wikto\OneDrive\Pulpit\aspnet\GamesStore\GamesStore.Api\obj\Debug\net7.0\GamesStore.Api.genruntimeconfig.cache
 C:\Users\wikto\OneDrive\Pulpit\aspnet\GamesStore\GamesStore.Api\obj\Debug\net7.0\ref\GamesStore.Api.dll
+C:\Users\wikto\OneDrive\Pulpit\aspnet\GamesStore\GamesStore.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\wikto\OneDrive\Pulpit\aspnet\GamesStore\GamesStore.Api\bin\Debug\net7.0\MinimalApis.Extensions.dll
+C:\Users\wikto\OneDrive\Pulpit\aspnet\GamesStore\GamesStore.Api\bin\Debug\net7.0\MiniValidation.dll
+C:\Users\wikto\OneDrive\Pulpit\aspnet\GamesStore\GamesStore.Api\obj\Debug\net7.0\GamesStore.Api.csproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Pulpit\aspnet\GamesStore\GamesStore.Api\obj\Debug\net7.0\GamesStore.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wikto\OneDrive\Pulpit\aspnet\GamesStore\GamesStore.Api\obj\Debug\net7.0\GamesStore.Api.csproj.CopyComplete
