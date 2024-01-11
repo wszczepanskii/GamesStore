@@ -2,8 +2,9 @@ using GamesStore.Api.Entities;
 
 namespace GamesStore.Api.Repositories;
 
-public class InMemGamesRepo{
-    private readonly List<Game> games = new (){
+public class InMemGamesRepo : IGamesRepo
+{
+    private readonly List<Game> games = new(){
         new Game(){
             Id = 1,
             Name = "Minecraft",
